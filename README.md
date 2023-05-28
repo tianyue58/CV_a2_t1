@@ -23,13 +23,13 @@ Use model to evaluate
 
 ## Augmentation
 
-<img alt="Unaugmented" src="https://github.com/tianyue58/cv_assignment2_task1/assets/77108843/4d2f31c8-8e1c-44a9-b99f-817eb495d94c">
+<img alt="Unaugmented" src="https://github.com/tianyue58/CV_a2_t1/assets/77108843/09189826-2fbd-4b62-ab08-f84092c68c23">
 
-<img alt="Cut-Out" src="https://github.com/tianyue58/cv_assignment2_task1/assets/77108843/b6447391-3905-4a3b-b371-671f7b4084ef">
+<img alt="Cut-Out" src="https://github.com/tianyue58/CV_a2_t1/assets/77108843/255b6c57-9ccf-4d38-b2b0-209de3509b90">
 
-<img alt="Cut-Mix" src="https://github.com/tianyue58/cv_assignment2_task1/assets/77108843/71661046-544f-4d3d-810c-2de213a15159">
+<img alt="Cut-Mix" src="https://github.com/tianyue58/CV_a2_t1/assets/77108843/7cf83562-e5f5-4336-ae6a-4d7e783774ce">
 
-<img alt="Mix-Up" src="https://github.com/tianyue58/cv_assignment2_task1/assets/77108843/cc13a2ee-450b-472f-8d93-9ef3974a4906">
+<img alt="Mix-Up" src="https://github.com/tianyue58/CV_a2_t1/assets/77108843/ffd419a8-5f90-490f-8aa2-080838122448">
 
 ## Experiments
 
