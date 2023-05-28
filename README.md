@@ -35,7 +35,7 @@ The usages of the codes like training and testing processes are shown in the cor
 
 |  Dataset  |                                            Neural Network                                            | Augmentation | Accuracy | Accuracy Top 5 |
 | :-------: | :--------------------------------------------------------------------------------------------------: | :----------: | :------: | :------------: |
-| CIFAR-100 | [EfficientNetB0](https://drive.google.com/file/d/1uS_0EVjXI0ZCxQuSfibPd6pwvLIbp3EY/view?usp=share_link) | Unaugmented | 67.20% | 91.10% |
+| CIFAR-100 | [EfficientNetB0](https://drive.google.com/file/d/1urDc7yJVds6BrOeJbIAaJGhKexzifKac/view?usp=sharing) | Unaugmented | 67.20% | 91.10% |
 | CIFAR-100 | [EfficientNetB3](https://drive.google.com/file/d/1kyYJPV74O5c28oNOzJwi0ioXJE08pDnJ/view?usp=sharing) | Unaugmented  |  85.90%  |     98.27%     |
 | CIFAR-100 | [EfficientNetB3](https://drive.google.com/file/d/1hojlHrX3JBR-9PmjbOraSr3Y9bRUxEQ-/view?usp=sharing) |   Cut-Out    |  86.56%  |     98.49%     |
 | CIFAR-100 | [EfficientNetB3](https://drive.google.com/file/d/1XOHuIf2jssOMsdj92GVowNfIkevv3q-R/view?usp=sharing) |   Cut-Mix    |  86.79%  |     98.46%     |
