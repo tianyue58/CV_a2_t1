@@ -1,10 +1,8 @@
 # CV-Spring23-FDU
 
-This is the midterm assignment of DATA130051 Computer Vision.
-
 In the first part of the project, we use several CNNs to build classifiers for CIFAR-100, and try to use some augmentation methods like Cut-Out, Cut-Mix, and Mix-Up to optimize the model. And we finally get a top-1 accuracy of 86.79% and top-5 accuracy of 98.46% using the EfficientNetB3.
 
-The usages of the codes like training and testing processes are shown in the corresponding folders.
+Training and testing steps are shown below.
 
 ## Training Steps:
 1. Load data
