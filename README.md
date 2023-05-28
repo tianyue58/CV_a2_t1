@@ -7,18 +7,18 @@ In the first part of the project, we use several CNNs to build classifiers for C
 The usages of the codes like training and testing processes are shown in the corresponding folders.
 
 ## Training Steps:
-Load data
-Resize image from 32 by 32 into 300 by 300
-Change image channel range from 0-255 into 0-1 
-Augment data using Cut-Out, Cut-Mix, Mix-Up
-Divide training data into training and validation set
-Call model.fit(data)
+1. Load data
+2. Resize image from 32 by 32 into 300 by 300
+3. Change image channel range from 0-255 into 0-1 
+4. Augment data using Cut-Out, Cut-Mix, Mix-Up
+5. Divide training data into training and validation set
+6. Call model.fit(data)
 
 ## Training Steps:
-Load data
-Resize image from 32 by 32 into 300 by 300
-Change image channel range from 0-255 into 0-1 
-Use model to evaluate
+1. Load data
+2. Resize image from 32 by 32 into 300 by 300
+3. Change image channel range from 0-255 into 0-1 
+4. Use model to evaluate
 
 
 ## Augmentation
