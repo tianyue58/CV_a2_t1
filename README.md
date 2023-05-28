@@ -1,6 +1,6 @@
 # CV-Spring23-FDU
 
-In the first part of the project, we use several CNNs to build classifiers for CIFAR-100, and try to use some augmentation methods like Cut-Out, Cut-Mix, and Mix-Up to optimize the model. And we finally get a top-1 accuracy of 86.79% and top-5 accuracy of 98.46% using the EfficientNetB3.
+In the first part of the project, we employed CNN architectures to construct classifiers for the CIFAR-100 dataset. To enhance the model's generalization capability and accuracy, we incorporated augmentation techniques such as cutmix, cutout, and mixup. Ultimately, utilizing EfficientNetB3, we achieved a top-1 accuracy of 86.79% and a top-5 accuracy of 98.46%.
 
 Training and testing steps are shown below.
 
